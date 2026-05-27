@@ -1,10 +1,1 @@
-
-## 🚀 About Me
-
-```typescript
-const edwin = {
-  name: "Edwin Tuan",
-  role: "Physics Student",
-  interests: ["AI/ML", "Physics", "Mathematics"],
-};
-```
+Hi! I'm Edwin Tuan, currently 18, in my second year studying Physics & Mathematics @ UCL. I love and now focus on AIGC and Computer Science. Previously worked on software development for a social media product (now closed :)) and database design for a popular Telegram bot. Sometimes I write literary commentary out of interest.
