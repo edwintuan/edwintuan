@@ -1,0 +1,1 @@
+Currently 19, in my second year studying Physics @ UCL. I love and now focus on AI and Web3 DeFi Infra. Working on exchange matching engines, market microstructure and quantitative trading, alongside LLM agents and tooling: MCP connectors, long-term memory and agentic workflows.
